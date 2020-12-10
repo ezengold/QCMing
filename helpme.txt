@@ -1,0 +1,43 @@
+
+
+
+		====================================================================================
+		*				    **** QCMing ****				   *
+		====================================================================================
+		====================================================================================
+		*										   *
+		*  QCMing est un jeu de culture generale pour ingenieur. Cette version est une ver-*
+		*										   *
+		*sion de test et a ete realise pour une evaluation. J'espere qu'il vous plaira.    *
+		*										   *
+		====================================================================================
+		====================================================================================
+		*				 Comment jouer ce jeu ?				   *
+		*										   *
+		* Ce jeu est tres simple a jouer. Il faut tout d'abord s'enregistrer en mettant son*
+		*										   *
+		*nom. Puis vous repondez successivement a la serie des questions proposees.	   *
+		*										   *
+		*Chaque reponse trouvee donne droit a 5 points. En cas de mauvaise reponse, vs n'a-*
+		*										   *
+		*vez pas de points. A la fin du jeu, le cumul de vos points sera affiche, suivi de *
+		*										   *
+		*l'appreciation correespondante.						   *
+		*										   *
+		====================================================================================
+		====================================================================================
+		*										   *
+		* Vous avez depuis le menu, la possibilite de voir les scores des joueurs ayant jou*
+		*										   *
+		*es recemment. Vous pouvez aussi choisir de quitter le jeu directement ou d'consul-*
+		*										   *
+		*ter la page d'aide.								   *
+		*										   *
+		====================================================================================
+		*                              MERCI DE JOUER A QCMing				   *
+		====================================================================================
+
+
+
+
+		

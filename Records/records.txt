@@ -1,0 +1,11 @@
+NEWTON	20 points
+RIAD	10 points
+BigM	30 points
+ANGE	20 points
+HENOC	50 points
+JOUEUR	20 points
+Winner	50 points
+edge	10 points
+ESA	20 points
+54	35 points
+yugi	30 points

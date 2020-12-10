@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1553134979 source:c:\users\edge\documents\projet block\qcming\qcming\fenetre.cpp
+	"Fenetre.h"
+
+1553131279 c:\users\edge\documents\projet block\qcming\qcming\fenetre.h
+	<string>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1553246788 source:c:\users\edge\documents\projet block\qcming\qcming\jeu.cpp
+	"Jeu.h"
+	"Fenetre.h"
+
+1553139395 c:\users\edge\documents\projet block\qcming\qcming\jeu.h
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<vector>
+	<cmath>
+	<cstdlib>
+	"Reponse.h"
+	"Question.h"
+	"MType.h"
+	"Joueur.h"
+
+1552432965 c:\users\edge\documents\projet block\qcming\qcming\reponse.h
+	<string>
+
+1552433429 c:\users\edge\documents\projet block\qcming\qcming\question.h
+	"Reponse.h"
+	<string>
+
+1552465721 c:\users\edge\documents\projet block\qcming\qcming\mtype.h
+	<string>
+
+1552474971 c:\users\edge\documents\projet block\qcming\qcming\joueur.h
+	<string>
+
+1552472054 source:c:\users\edge\documents\projet block\qcming\qcming\joueur.cpp
+	"Joueur.h"
+
+1553345807 source:c:\users\edge\documents\projet block\qcming\qcming\main.cpp
+	"Jeu.h"
+
+1552550268 source:c:\users\edge\documents\projet block\qcming\qcming\mtype.cpp
+	"MType.h"
+	<cmath>
+	<sstream>
+
+1552434330 source:c:\users\edge\documents\projet block\qcming\qcming\question.cpp
+	"Question.h"
+	"Reponse.h"
+
+1552433068 source:c:\users\edge\documents\projet block\qcming\qcming\reponse.cpp
+	"Reponse.h"
+
