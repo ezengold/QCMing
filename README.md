@@ -18,7 +18,7 @@ This project has been developed in CodeBlock environment. It uses the **"windows
 3. Now that you ensure Codeblock is correctly installed, you can open the project.
     * Clone the repository
     * In Codeblock, go to **File** and **Open...**
-    * Choose in the project repository the [QCMing.cbp](#QCMing/QCMing.cbp) and Open it
+    * Choose in the project repository the [QCMing.cbp](#QCMing.cbp) and Open it
     * The project should now be opened
 
 4. Go to **Build>Build** to compile the project
